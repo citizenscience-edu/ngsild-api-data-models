@@ -1,7 +1,11 @@
 {
 	"@context": {
+                "Building": "https://ngsi-ld-test-suite/context#Building",
+                "airQualityLevel": ""https://ngsi-ld-test-suite/context#airQualityLevel",
+                "almostFull": ""https://ngsi-ld-test-suite/context#almostFull",
 		"brandName": "https://ngsi-ld-test-suite/context#brandName",
+		"fuelLevel": "https://ngsi-ld-test-suite/context#fuelLevel",
 		"speed": "https://ngsi-ld-test-suite/context#speed",
-		"fuelLevel": "https://ngsi-ld-test-suite/context#fuelLevel"
+                "subCategory": "https://ngsi-ld-test-suite/context#subCategory"
 	}
 }
